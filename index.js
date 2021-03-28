@@ -112,8 +112,6 @@ function listBranches(owner,repo)
 			// Return object for people calling our method.
 			resolve( lst );
 
-			console.debug( options );
-
 		});
 	});
 }
