@@ -7,6 +7,7 @@ using "node test" and all tests ran perfectly. I also started a server and recor
 which is in this repo.
 
 
-# Note: For the create repo test, if the repo already exists, it will return an error 422. I have included a
-# method within the create repo function that reads this error and deletes the repo. Simply run 'npm test' again
-# to rectify the issue and get 5 passes.
+# Note: 
+For the create repo test, if the repo already exists, it will return an error 422. I have included a
+method within the create repo function that reads this error and deletes the repo. Simply run 'npm test' again
+to rectify the issue and get 5 passes. Also, ignore the background noise in the screencast.
