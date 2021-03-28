@@ -1,4 +1,4 @@
-## SSW-345 HW4 Submission
+# SSW-345 HW4 Submission
 
 In this homework, I took the REST folder and from the REST lab and uploaded the files to this repository. I then
 proceeded to change the index.js file to be able to list the branches of a repo, create and also delete a repo,
@@ -7,7 +7,7 @@ using "node test" and all tests ran perfectly. I also started a server and recor
 which is in this repo.
 
 
-# Note: 
+## Note: 
 For the create repo test, if the repo already exists, it will return an error 422. I have included a
 method within the create repo function that reads this error and deletes the repo. Simply run 'npm test' again
 to rectify the issue and get 5 passes. Also, ignore the background noise in the screencast.
