@@ -3,8 +3,8 @@
 In this homework, I took the REST folder and from the REST lab and uploaded the files to this repository. I then
 proceeded to change the index.js file to be able to list the branches of a repo, create and also delete a repo,
 if that repo already exists, add an issue to a repo, and add a wiki to a repo. I then tested the index.js file
-using "node test" and all tests ran perfectly. I also started a server and recorded a screen cast, the file of 
-which is in this repo.
+using "node test" and all tests ran perfectly. I also started a server and recorded a screen cast, the link of 
+which is here https://youtu.be/v3v1neHilH4.
 
 
 ## Note: 
